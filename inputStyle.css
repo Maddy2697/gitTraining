@@ -1,0 +1,16 @@
+input{
+    border: none;
+    display: flex;
+    text-align: center;
+    font-style: italic;
+    position: relative;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+:placeholder-shown{
+    font-style: italic;
+    align-items: center;
+    justify-content: center;
+}

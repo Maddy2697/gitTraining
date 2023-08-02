@@ -1,0 +1,12 @@
+#clickMeButton{
+    margin: auto;
+    color: white;
+    border-radius: 100px;
+    font-size: large;
+    font-style: italic;
+    position: relative;
+    font-weight: bolder;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+}

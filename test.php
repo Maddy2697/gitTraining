@@ -2,4 +2,36 @@
 
 /*** this is a test */
 
-$var = 
+$var = 2;
+
+
+
+
+$var = 2;
+
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
+
+$var = 2;
